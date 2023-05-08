@@ -1,4 +1,4 @@
-<div > 🤖Programador Fullstack Jr, disfruto implementando proyectos de tecnología y programación. 🤖 <div> 
+### 🤖Programador Fullstack Jr, disfruto implementando proyectos de tecnología y programación. 🤖 
 ### 🏆Especializado en creación web y en java. 🏆👋
 
 
@@ -18,12 +18,39 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JFabrizzio5&theme=radical&border_radius=20&locale=es&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
+### 🤖Algunas Herramientas que he usado y lenguages que tengo conocimientos🤖
 
-Lenguages  | Herramientas
+Lenguages  | Nivel
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Java | Avanzado
+JavaWebPages | Avanzado
+HTML | Avamzado
+CSS  | Intermedio-Avamzado
+Javascript | Intermedio
+SQL | Intermedio
+Python | Basico-Intermedio
+Kotlin | Basico
+PHP | Basico
+JSON (Apis) | Basico-Intermedio  
+Arduino | Intermedio-Avanzado 
+
+### 🤖Algunas Herramientas de equipo que uso,librerias,frameworks,Bases de datos,IDEs,etc.🤖
+
+Herramientas | Descripcion
+------------- | -------------
+Angular | Intermedio
+Node.js | Avanzado
+TomcatServers | Avanzado
+Aws  | Intermedio-Avamzado
+StarUML | Intermedio
+Git/Github | Basico-Intermedio
+Tensorflow | Basico
+Teamviwer | Basico
+MySQL FireBase y | Intermedio-Avanzado 
+VisualStudioCode | Avanzado
+Netbeans | 
+
+
+
+
   
-graph LR
-A[Datos] --> B[Gráfico de barras]
-B --> C[Markdown]
