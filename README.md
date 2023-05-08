@@ -23,3 +23,7 @@ Lenguages  | Herramientas
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
+  
+graph LR
+A[Datos] --> B[Gráfico de barras]
+B --> C[Markdown]
