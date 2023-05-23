@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi Hola bonjour, I'm Joseph Fabrizzio another programmer</h1>
+<h1 align="center">Hi Hola bonjour, I'm Joseph Fabrizzio your Software Fullstack Jr. Enginnier</h1>
 <h3 align="center">I am jr FullStack Engenier.</h3>
 <h3 align="center">I enjoy lern about tech and develop ideas</h3>
 <h3 align="left">Connect with me:</h3>
