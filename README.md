@@ -4,7 +4,7 @@
 <h3 align="center">I am jr FullStack Engenier.</h3>
 <h3 align="center">I enjoy lern about tech and develop ideas</h3>
 <h3 align="left">Connect with me:</h3>
-! [logo de GitHub] (https://github.com/logos.png)
+[![340709804-612289013799551-224101374922246719-n.jpg](https://i.postimg.cc/DzH0NMVj/340709804-612289013799551-224101374922246719-n.jpg)](https://postimg.cc/Z9PJBj5p)
 
 ### 🤖Programador Fullstack Jr, disfruto implementando proyectos de tecnología y programación. 🤖 
 
