@@ -4,10 +4,13 @@
 <h3 align="center">I am jr FullStack Engenier.</h3>
 <h3 align="center">I enjoy lern about tech and develop ideas</h3>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+! [texto alternativo] (https://scontent.fmex18-1.fna.fbcdn.net/v/t39.30808-6/328730198_550120050427499_5486687103208816240_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=TaMeJJzIKYAAX9LNhvD&_nc_ht=scontent.fmex18-1.fna&oh=00_AfCaDXObljMauEor566wjout4SdnYDTLc7_tZ-51LSoHsQ&oe=64706315)
+
 ### 🤖Programador Fullstack Jr, disfruto implementando proyectos de tecnología y programación. 🤖 
+
 ### 🏆Especializado en creación web y en java. 🏆👋
+
+
 ### 🤖Algunas Herramientas que he usado y lenguages que tengo conocimientos🤖
 
 Lenguages  | Nivel
