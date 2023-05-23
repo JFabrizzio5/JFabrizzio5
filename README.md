@@ -2,9 +2,9 @@
 ### 🏆Especializado en creación web y en java. 🏆👋
 
 
-<h1 align="center">Hi 👋, I'm Joseph Fabrizzio</h1>
-<h3 align="center">I am jr FullStack Engenier and i like the pinguins</h3>
-
+<h1 align="center">Hi Hola bonjour, I'm Joseph Fabrizzio another programmer</h1>
+<h3 align="center">I am jr FullStack Engenier.</h3>
+<h3 align="center">I enjoy lern about tech and develop ideas</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -45,9 +45,9 @@ Arduino | Intermedio-Avanzado
 
 ### 🤖Algunas Herramientas de equipo que uso,librerias,frameworks,Bases de datos,IDEs,etc.🤖
 
-Herramientas | Descripcion
+Herramientas/Frameworks | Descripcion
 ------------- | -------------
-Angular | Intermedio
+Angular | Intermedio (Aprendiendo/)
 Node.js | Avanzado
 TomcatServers | Avanzado
 Aws  | Intermedio-Avamzado
@@ -55,9 +55,9 @@ StarUML | Intermedio
 Git/Github | Basico-Intermedio
 Tensorflow | Basico
 Teamviwer | Basico
-MySQL FireBase y | Intermedio-Avanzado 
-VisualStudioCode | Avanzado
-Netbeans | 
+MySQL FireBase y MongoDB| Intermedio 
+VisualStudioCode | Intermedio
+Netbeans | Intermedio
 
 
 
