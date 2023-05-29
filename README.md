@@ -14,31 +14,35 @@
 ### 🏆Especializado en creación web,java y robotica. 🏆👋
 
 ### 🤖Herramientas,lenguages que ocupo para crear tus proyectos o dar soporte a ellos🤖
+## Herramientas y Lenguajes
 
-Herramientas y lenguages | Experiencia
-------------- | -------------
-Java | Tengo bastante experiencia trabajando con java mayoritariamente lo ocupo para crear sistemas locales como gestiones de inventarios,estacionamiento o aplicaciones varias  
-JavaWebPages | Lo utilizo para migrar sistemas java a la web o crear paginas web para servicios locales sobre todo debido a que es igual que java tengo tambien mucha experiencia en el lenguage
-HTML | Lo utilizo para hacer maquetado simple para pagina de web para mis clientes y imparto clases de desarrollo web 
-CSS  | Lo utilizo junto algunas herramientas mas para facilitar el proceso del maquetado web y lo enseño en mis clases de desarrollo web
-Javascript | Lo utilizo junto a distintos frameworks para crear no solo paginas web si no tambien para desarrollar aplicaciones mobiles con node y distintos lenguages mas 
-SQL | Manejo el lenguage sql para implementar mis distintas bases de datos y conectarlos en proyectos locales 
-Python | Tengo experiencia para la automatizacion de procesos y implementaciones sobre todo en robotica o conecciones web y hardware como berry pi esp32 y arduino tambien puedo manejarlo para inspeccionar datos a mediana escala.
-Kotlin | Lo utilizo para implementar aplicaciones moviles o para migrar codigo java a este lenguage normalmente
-PHP | Lo utilizo para la creacion web y algunas veces la he utilizado para crear apis de mis clientes o modificar codigo de clientes que piden funcionalidades.
-Arduino | Lenguage que utilizo para la creacion de proyectos de electronica como creacion de robots o sistemas de leds autonomos para la domotica simple.
-Angular | Intermedio (Aprendiendo/)
-JSON (Apis) | 
-Node.js | Avanzado
-TomcatServers | Avanzado
-Aws  | Normalmente lo utilizo para hostear proyectos u otros servicios como bases de datos,Java,Plugins etc.
-StarUML | Creo diagramado y documentacion con este software 
-Git/Github | Utilizo para el versionado y trabajo en equipo 
-Tensorflow | Tengo conocimiento en la libreria y normamlente la ocupo para pequeñas implementaciones en sistemas que requieren reconocimiento de objetos con el modulo ESP32 y Arduino 
-Teamviwer | Basico
-MySQL FireBase y MongoDB| Intermedio 
-VisualStudioCode | Intermedio
-Netbeans | Intermedio
+| Herramientas y Lenguajes | Experiencia |
+|-------------------------|-------------|
+| Java                    | Amplia experiencia en el desarrollo de sistemas locales, como gestión de inventarios, estacionamiento y diversas aplicaciones empresariales. |
+| JavaWebPages            | Utilizado para migrar sistemas Java a la web y crear páginas web para servicios locales. Experiencia en lenguaje similar a Java. |
+| HTML                    | Maquetado básico de páginas web para clientes. Imparto clases de desarrollo web. |
+| CSS                     | Uso CSS junto a otras herramientas para facilitar el maquetado web. Enseño CSS en clases de desarrollo web. |
+| JavaScript              | Creación de aplicaciones web y móviles con Node.js y otros lenguajes y frameworks. |
+| SQL                     | Experiencia en manejo del lenguaje SQL para implementar y conectar bases de datos en proyectos locales. |
+| Python                  | Automatización de procesos y desarrollo en robótica, conexiones web y hardware (Raspberry Pi, ESP32, Arduino). |
+| Kotlin                  | Implementación de aplicaciones móviles y migración de código Java a Kotlin. |
+| PHP                     | Desarrollo web, creación de APIs y modificaciones de código para clientes. |
+| Arduino                 | Creación de proyectos de electrónica como robots y sistemas domóticos con LED autónomos. |
+| Angular                 | En proceso de aprendizaje. Ampliando conocimientos en desarrollo web frontend. |
+| JSON (APIs)             | Experiencia en manejo y consumo de APIs utilizando JSON como formato de intercambio de datos. |
+| Node.js                 | Amplia experiencia en desarrollo de aplicaciones web y servicios del lado del servidor. |
+| Tomcat Servers          | Amplio conocimiento en configuración y despliegue de aplicaciones en servidores Tomcat. |
+| AWS                     | Uso de servicios de Amazon Web Services para alojar proyectos y bases de datos, y configuración y administración de los mismos. |
+| StarUML                 | Creación de diagramas y documentación de proyectos de software. |
+| Git/GitHub              | Control de versiones y colaboración en equipo utilizando Git y GitHub. |
+| TensorFlow             | Conocimiento de la librería para implementaciones de reconocimiento de objetos con ESP32 y Arduino. |
+| TeamViewer              | Conocimientos básicos para brindar soporte y asistencia remota a clientes. |
+| MySQL, Firebase y MongoDB | Experiencia intermedia en manejo de bases de datos con estas tecnologías. |
+| Visual Studio Code      | Experiencia intermedia en el uso de este editor de código. |
+| Netbeans                | Experiencia intermedia en el uso de este entorno de desarrollo integrado. |
+
+Estas son las herramientas y lenguajes en los que tengo experiencia y que utilizo para brindar servicios a mis clientes. Mi objetivo es utilizar mis conocimientos y experiencia en estas tecnologías para ofrecer soluciones de software eficientes y de calidad.
+
 
  ### 🤖Algunas Herramientas de equipo que uso,librerias,frameworks,Bases de datos,IDEs,etc.🤖
  
