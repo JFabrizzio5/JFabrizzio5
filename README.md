@@ -9,27 +9,26 @@
  <img src=“https://i.postimg.cc/ryPTNrkj/340709804-612289013799551-224101374922246719-n.jpg”> 
 <h3 align="left">Connect with me: JosephFabrizzioCorreo@gmail.com</h3>
 
-### 🤖Programador Fullstack Jr, disfruto implementando proyectos de tecnología y programación. 🤖 
+### 🤖Programador Fullstack Jr Autonomo, disfruto implementando proyectos de tecnología y programación. 🤖 
 
-### 🏆Especializado en creación web y en java. 🏆👋
+### 🏆Especializado en creación web,java y robotica. 🏆👋
 
-
-### 🤖Herramientas y lenguages que tengo conocimiento y para que los ocupo🤖
+### 🤖Herramientas,lenguages que ocupo para crear tus proyectos o dar soporte a ellos🤖
 
 Herramientas y lenguages | Experiencia
 ------------- | -------------
-Java | Avanzado 
-JavaWebPages | Avanzado
-HTML | Avamzado
-CSS  | Intermedio-Avamzado
-Javascript | Intermedio
-SQL | Intermedio
-Python | Basico-Intermedio
-Kotlin | Basico
-PHP | Basico
-JSON (Apis) | Basico-Intermedio  
-Arduino | Intermedio-Avanzado 
+Java | Tengo bastante experiencia trabajando con java mayoritariamente lo ocupo para crear sistemas locales como gestiones de inventarios,estacionamiento o aplicaciones varias  
+JavaWebPages | Lo utilizo para migrar sistemas java a la web o crear paginas web para servicios locales sobre todo debido a que es igual que java tengo tambien mucha experiencia en el lenguage
+HTML | Lo utilizo para hacer maquetado simple para pagina de web para mis clientes y imparto clases de desarrollo web 
+CSS  | Lo utilizo junto algunas herramientas mas para facilitar el proceso del maquetado web y lo enseño en mis clases de desarrollo web
+Javascript | Lo utilizo junto a distintos frameworks para crear no solo paginas web si no tambien para desarrollar aplicaciones mobiles con node y distintos lenguages mas 
+SQL | Manejo el lenguage sql para implementar mis distintas bases de datos y conectarlos en proyectos locales 
+Python | Tengo experiencia para la automatizacion de procesos y implementaciones sobre todo en robotica o conecciones web y hardware como berry pi esp32 y arduino tambien puedo manejarlo para inspeccionar datos a mediana escala.
+Kotlin | Lo utilizo para implementar aplicaciones moviles o para migrar codigo java a este lenguage normalmente
+PHP | Lo utilizo para la creacion web y algunas veces la he utilizado para crear apis de mis clientes o modificar codigo de clientes que piden funcionalidades.
+Arduino | Lenguage que utilizo para la creacion de proyectos de electronica como creacion de robots o sistemas de leds autonomos para la domotica simple.
 Angular | Intermedio (Aprendiendo/)
+JSON (Apis) | 
 Node.js | Avanzado
 TomcatServers | Avanzado
 Aws  | Normalmente lo utilizo para hostear proyectos u otros servicios como bases de datos,Java,Plugins etc.
