@@ -1,7 +1,6 @@
 
 
-<h1 align="center">Hi Hola bonjour, I'm Joseph Fabrizzio your Software Fullstack Jr. Enginnier</h1>
-<h3 align="center">I am jr FullStack Engenier.</h3>
+<h1 align="center">Hi Hola bonjour, I'm Joseph Fabrizzio your Software Fullstack Jr. Engineer.</h1>
 <h3 align="center">I enjoy lern about tech and develop ideas</h3>
 <h3 align="center">Atencion: Si entraste y vez este mensaje es porque estoy remodelando mi github gracias :D</h3>
 
@@ -10,9 +9,9 @@
  <img src=“https://i.postimg.cc/ryPTNrkj/340709804-612289013799551-224101374922246719-n.jpg”> 
 <h3 align="left">Connect with me: JosephFabrizzioCorreo@gmail.com</h3>
 
-### 🤖Programador Fullstack Jr Autonomo, disfruto implementando proyectos de tecnología y programación. 🤖 
+### 🤖Programador Autonomo, disfruto implementando proyectos de tecnología y programación. 🤖 
 
-### 🏆Especializado en creación web,java y robotica. 🏆👋
+### 🏆Especializado en creación web,java y robotica.🏆👋
 
 ### 🤖Herramientas,lenguages que ocupo para crear tus proyectos o dar soporte a ellos🤖
 ## Herramientas y Lenguajes
