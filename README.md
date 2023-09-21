@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi Hola bonjour, I'm Joseph Fabrizzio your Software Fullstack Jr. Engineer.</h1>
 <h3 align="center">I enjoy lern about tech and develop ideas</h3>
-<h3 align="center">Atencion: Github en Planificacion 1.1</h3>
+<h3 align="center">Atencion: Github en construccion</h3>
 
 
 ![340709804-612289013799551-224101374922246719-n.jpg](https://i.postimg.cc/ryPTNrkj/340709804-612289013799551-224101374922246719-n.jpg)]()
