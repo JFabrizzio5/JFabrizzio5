@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi Hola bonjour, I'm Joseph Fabrizzio your Software Fullstack Jr. Engineer.</h1>
 <h3 align="center">I enjoy lern about tech and develop ideas</h3>
 <h3 align="center">Atencion: Github en construccion</h3>
