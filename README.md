@@ -3,34 +3,9 @@
 <h3 align="center">ENG/SPANISH</h3>
 
 
-
-
-    <style>
-        .subindice {
-            font-size: 0.8em;
-            vertical-align: text-top;
-        }
-
-        .lista {
-            list-style-type: none;
-            padding: 0;
-        }
-
-        .lista-item {
-            margin-bottom: 10px;
-            border-bottom: 1px solid #ccc;
-            padding: 10px 0;
-        }
-    </style>
-</head>
-<body>
-    <ol class="lista">
-        <li class="lista-item">Elemento 1<sub class="subindice">subíndice 1</sub></li>
-        <li class="lista-item">Elemento 2<sub class="subindice">subíndice 2</sub></li>
-        <li class="lista-item">Elemento 3<sub class="subindice">subíndice 3</sub></li>
-    </ol>
-</body>
-</html>
+1. Elemento 1<sub>subíndice 1</sub>
+2. Elemento 2<sub>subíndice 2</sub>
+3. Elemento 3<sub>subíndice 3</sub>
 
 
 <h3 align="center">where i work? 🤔</h3>
