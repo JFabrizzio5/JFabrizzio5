@@ -4,7 +4,7 @@
 
 # My Tech Stack 🚀
 
-## Web Development Stack 🌐
+## Web Development 🌐
 
 ### Frontend:
 - **Languages:** HTML, CSS, JavaScript (Learning TypeScript)
@@ -19,21 +19,24 @@
 ### Databases:
 - **Relational:** MySQL, SQLite, MariaDB
 - **NoSQL:** MongoDB, Firebase
+- **Database Architecture**
+- **Documentation:** Yes
 
-## Desktop Development Stack 🖥️
+## Desktop Application Development 🖥️
 
 - **Languages:** Python (Using Flet), Java (with MySQLite)
 
-## Mobile Development Stack 📱
+## Mobile Application Development 📱
 
 - **Languages:** Java, Kotlin
 - **Databases:** SQLite, Firebase
 
-## Server Stack ☁️
+## Servers ☁️
 
 - **Web Servers:** Apache Tomcat, Nginx
 - **Hosting Control Panel:** cPanel
 - **Operating System:** Ubuntu
+- **Hosting:** Hostinger, 000webhost, Godaddy
 
 ## Tools & Utilities 🛠️
 
@@ -41,9 +44,9 @@
 - **Version Control:** Git
 - **Tunneling:** Ngrok
 - **FTP Client:** FileZilla
-- **Hosting:** Hostinger
 - **Microcontrollers:** Arduino
 - **Languages:** C#
+- **Remote Support:** AnyDesk, TeamViewer
 
 ## Learning 📚
 
