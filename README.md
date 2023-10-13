@@ -3,10 +3,23 @@
 <h3 align="center">ENG/SPANISH</h3>
 
 <ol>
-  <li>Elemento 1<sub>subíndice 1</sub></li>
-  <li>Elemento 2<sub>subíndice 2</sub></li>
-  <li>Elemento 3<sub>subíndice 3</sub></li>
+    <li>
+        <span style="font-size:1.2em;">Elemento 1</span>
+        <br>
+        <sub>subíndice 1</sub>
+    </li>
+    <li>
+        <span style="font-size:1.2em;">Elemento 2</span>
+        <br>
+        <sub>subíndice 2</sub>
+    </li>
+    <li>
+        <span style="font-size:1.2em;">Elemento 3</span>
+        <br>
+        <sub>subíndice 3</sub>
+    </li>
 </ol>
+
 
 
 <h3 align="center">where i work? 🤔</h3>
