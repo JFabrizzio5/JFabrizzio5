@@ -2,8 +2,17 @@
 <h3 align="center">I enjoy lern about tech and develop ideas</h3>
 <h3 align="center">ENG/SPANISH</h3>
 
-where i work? 🤔
+<h3 align="center">Stack 🧐</h3>
+
+
+<li>PHYTHON</li>
+<li>PHP</li>
+<li>MONGODB</li>
+
+<h3 align="center">where i work? 🤔</h3>
 im develop my ideas and i work for enterprises
+
+<h3 align="center">my website? 🤔</h3>
 
 ![340709804-612289013799551-224101374922246719-n.jpg](https://i.postimg.cc/ryPTNrkj/340709804-612289013799551-224101374922246719-n.jpg)]()
  <img src=“https://i.postimg.cc/ryPTNrkj/340709804-612289013799551-224101374922246719-n.jpg”> 
