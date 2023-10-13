@@ -2,10 +2,11 @@
 <h3 align="center">I enjoy lern about tech and develop ideas</h3>
 <h3 align="center">ENG/SPANISH</h3>
 
-
-1. Elemento 1<sub>subíndice 1</sub>
-2. Elemento 2<sub>subíndice 2</sub>
-3. Elemento 3<sub>subíndice 3</sub>
+<ol>
+  <li>Elemento 1<sub>subíndice 1</sub></li>
+  <li>Elemento 2<sub>subíndice 2</sub></li>
+  <li>Elemento 3<sub>subíndice 3</sub></li>
+</ol>
 
 
 <h3 align="center">where i work? 🤔</h3>
