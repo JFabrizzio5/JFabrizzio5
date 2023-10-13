@@ -2,7 +2,7 @@
 <h3 align="center">I enjoy lern about tech and develop ideas</h3>
 <h3 align="center">ENG/SPANISH</h3>
 
-<h3 align="center">Stack 🧐</h3>
+<h3 align="left">Stack 🧐</h3>
 
 
 <li>PHYTHON</li>
