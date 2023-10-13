@@ -15,12 +15,16 @@
 ### Backend:
 - **Languages:** PHP (Using Livewire and PhilePond), Python (Flask, Django), JavaScript (Node.js with Express, Learning Angular)
 - **Frameworks:** Laravel, Flask, Django, Express (Learning)
+- **API Development:** Yes
+- **Database Optimization:** Yes
+- **Database Architecture Design:** Yes
 
 ### Databases:
 - **Relational:** MySQL, SQLite, MariaDB
 - **NoSQL:** MongoDB, Firebase
-- **Database Architecture**
+- **Database Architecture:** Yes
 - **Documentation:** Yes
+- **Small-Scale Database Optimization:** Yes
 
 ## Desktop Application Development 🖥️
 
@@ -51,6 +55,7 @@
 ## Learning 📚
 
 - **Currently Learning:** Angular, React with Express
+
 
 
 
