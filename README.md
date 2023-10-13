@@ -2,17 +2,41 @@
 <h3 align="center">I enjoy lern about tech and develop ideas</h3>
 <h3 align="center">ENG/SPANISH</h3>
 
-<h2 align="left">Stack 🧐</h2>
 
-<h2 align="left">Web</h2>
-<li>PHYTHON</li>
-<sub>Django</sub>
-<sub>Flask</sub>
-<li>PHP</li>
-<sub>Laravel</sub>
-<li>Databases</li>
-<sub>Mongo</sub>
-<sub>Mysql</sub>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi README</title>
+    <style>
+        .subindice {
+            font-size: 0.8em;
+            vertical-align: text-top;
+        }
+
+        .lista {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .lista-item {
+            margin-bottom: 10px;
+            border-bottom: 1px solid #ccc;
+            padding: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <ol class="lista">
+        <li class="lista-item">Elemento 1<sub class="subindice">subíndice 1</sub></li>
+        <li class="lista-item">Elemento 2<sub class="subindice">subíndice 2</sub></li>
+        <li class="lista-item">Elemento 3<sub class="subindice">subíndice 3</sub></li>
+    </ol>
+</body>
+</html>
+
 
 <h3 align="center">where i work? 🤔</h3>
 im develop my ideas and i work for enterprises
