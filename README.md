@@ -2,12 +2,17 @@
 <h3 align="center">I enjoy lern about tech and develop ideas</h3>
 <h3 align="center">ENG/SPANISH</h3>
 
-<h3 align="left">Stack 🧐</h3>
+<h2 align="left">Stack 🧐</h2>
 
-
+<h2 align="left">Web</h2>
 <li>PHYTHON</li>
+<sub>Django</sub>
+<sub>Flask</sub>
 <li>PHP</li>
-<li>MONGODB</li>
+<sub>Laravel</sub>
+<li>Databases</li>
+<sub>Mongo</sub>
+<sub>Mysql</sub>
 
 <h3 align="center">where i work? 🤔</h3>
 im develop my ideas and i work for enterprises
