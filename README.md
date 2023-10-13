@@ -1,62 +1,59 @@
 <h1 align="center">I'm Joseph Fabrizzio your Software Fullstack Engineer.😄</h1>
 <h3 align="center">I enjoy lern about tech and develop ideas</h3>
 <h3 align="center">ENG/SPANISH</h3>
-
 # My Tech Stack 🚀
 
 ## Web Development 🌐
 
 ### Frontend:
-- **Languages:** HTML, CSS, JavaScript (Learning TypeScript)
+- **Languages:** HTML, CSS, JavaScript (Learning TypeScript) 🎨
 - **Frameworks/Libraries:** 
-  - React (In Progress) 
-  - Bootstrap
+  - React (In Progress) ⚛️
+  - Bootstrap 🌍
 
 ### Backend:
-- **Languages:** PHP (Using Livewire and PhilePond), Python (Flask, Django), JavaScript (Node.js with Express, Learning Angular)
-- **Frameworks:** Laravel, Flask, Django, Express (Learning)
-- **API Development:** Yes
-- **Database Optimization:** Yes
-- **Database Architecture Design:** Yes
+- **Languages:** PHP (Using Livewire and PhilePond) 🐘, Python (Flask, Django) 🐍, Java (JSP) ☕, JavaScript (Node.js with Express, Learning Angular) 🚀
+- **Frameworks:** Laravel, Flask, Django, Express (Learning) 🛠️
+- **API Development:** Yes 🚀
+- **Database Optimization:** Yes 🔍
+- **Database Architecture Design:** Yes 🏛️
 
 ### Databases:
-- **Relational:** MySQL, SQLite, MariaDB
-- **NoSQL:** MongoDB, Firebase
-- **Database Architecture:** Yes
-- **Documentation:** Yes
-- **Small-Scale Database Optimization:** Yes
+- **Relational:** MySQL, SQLite, MariaDB 🗃️
+- **NoSQL:** MongoDB, Firebase 🏪
+- **Database Architecture:** Yes 🏛️
+- **Documentation:** Yes 📚
+- **Small-Scale Database Optimization:** Yes 🔍
 
 ## Desktop Application Development 🖥️
 
-- **Languages:** Python (Using Flet), Java (with MySQLite)
+- **Languages:** Python (Using Flet) 🐍, Java (with MySQLite) ☕
 
 ## Mobile Application Development 📱
 
-- **Languages:** Java, Kotlin
-- **Databases:** SQLite, Firebase
+- **Languages:** Java, Kotlin ☕
+- **Databases:** SQLite, Firebase 🏪
 
 ## Servers ☁️
 
-- **Web Servers:** Apache Tomcat, Nginx
-- **Hosting Control Panel:** cPanel
-- **Operating System:** Ubuntu
-- **Hosting:** Hostinger, 000webhost, Godaddy
+- **Web Servers:** Apache Tomcat, Nginx 🌐
+- **Hosting Control Panel:** cPanel 🎛️
+- **Operating System:** Ubuntu 🐧
+- **Hosting:** Hostinger, 000webhost, Godaddy 🌍
 
 ## Tools & Utilities 🛠️
 
-- **IDEs:** Visual Studio Code, NetBeans
-- **Version Control:** Git
-- **Tunneling:** Ngrok
-- **FTP Client:** FileZilla
-- **Microcontrollers:** Arduino
-- **Languages:** C#
-- **Remote Support:** AnyDesk, TeamViewer
+- **IDEs:** Visual Studio Code, NetBeans 💻
+- **Version Control:** Git 📚
+- **Tunneling:** Ngrok 🔒
+- **FTP Client:** FileZilla 📂
+- **Microcontrollers:** Arduino 🤖
+- **Languages:** C# ⌨️
+- **Remote Support:** AnyDesk, TeamViewer 🚪
 
 ## Learning 📚
 
-- **Currently Learning:** Angular, React with Express
-
-
+- **Currently Learning:** Angular, React with Express ⚛️
 
 
 <h3 align="center">where i work? 🤔</h3>
