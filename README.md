@@ -2,23 +2,52 @@
 <h3 align="center">I enjoy lern about tech and develop ideas</h3>
 <h3 align="center">ENG/SPANISH</h3>
 
-<ol>
-    <li>
-        <span style="font-size:1.2em;">Elemento 1</span>
-        <br>
-        <sub>subíndice 1</sub>
-    </li>
-    <li>
-        <span style="font-size:1.2em;">Elemento 2</span>
-        <br>
-        <sub>subíndice 2</sub>
-    </li>
-    <li>
-        <span style="font-size:1.2em;">Elemento 3</span>
-        <br>
-        <sub>subíndice 3</sub>
-    </li>
-</ol>
+# My Tech Stack 🚀
+
+## Web Development Stack 🌐
+
+### Frontend:
+- **Languages:** HTML, CSS, JavaScript (Learning TypeScript)
+- **Frameworks/Libraries:** 
+  - React (In Progress) 
+  - Bootstrap
+
+### Backend:
+- **Languages:** PHP (Using Livewire and PhilePond), Python (Flask, Django), JavaScript (Node.js with Express, Learning Angular)
+- **Frameworks:** Laravel, Flask, Django, Express (Learning)
+
+### Databases:
+- **Relational:** MySQL, SQLite, MariaDB
+- **NoSQL:** MongoDB, Firebase
+
+## Desktop Development Stack 🖥️
+
+- **Languages:** Python (Using Flet), Java (with MySQLite)
+
+## Mobile Development Stack 📱
+
+- **Languages:** Java, Kotlin
+- **Databases:** SQLite, Firebase
+
+## Server Stack ☁️
+
+- **Web Servers:** Apache Tomcat, Nginx
+- **Hosting Control Panel:** cPanel
+- **Operating System:** Ubuntu
+
+## Tools & Utilities 🛠️
+
+- **IDEs:** Visual Studio Code, NetBeans
+- **Version Control:** Git
+- **Tunneling:** Ngrok
+- **FTP Client:** FileZilla
+- **Hosting:** Hostinger
+- **Microcontrollers:** Arduino
+- **Languages:** C#
+
+## Learning 📚
+
+- **Currently Learning:** Angular, React with Express
 
 
 
