@@ -1,7 +1,7 @@
 <h1 align="center">I'm Joseph Fabrizzio your Software Fullstack Engineer.😄</h1>
 <h3 align="center">I enjoy lern about tech and develop ideas</h3>
 <h3 align="center">ENG/SPANISH</h3>
-# My Tech Stack 🚀
+### My Tech Stack 🚀
 
 ## Web Development 🌐
 
