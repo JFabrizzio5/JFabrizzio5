@@ -62,7 +62,7 @@ im develop my ideas and i work for enterprises
 
 <h3 align="center">my website? 🤔</h3>
 
-![340709804-612289013799551-224101374922246719-n.jpg](https://i.postimg.cc/ryPTNrkj/340709804-612289013799551-224101374922246719-n.jpg)]()
+![340709804-612289013799551-224101374922246719-n.jpg](https://avatars.githubusercontent.com/jfabrizzio5)]()
  <img src=“https://avatars.githubusercontent.com/jfabrizzio5”> 
 <h3 align="left">Connect with me: JosephFabrizzioCorreo@gmail.com</h3>
 
