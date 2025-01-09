@@ -69,7 +69,7 @@ GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JFabrizzio5&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JFabrizzio5&theme=radical&border_radius=20&locale=es&mode=weekly&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JFabrizzio5)](https://git.io/streak-stats)
 
 🎯 Fun Fact
 -----------
