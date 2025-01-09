@@ -5,7 +5,7 @@ Passionate software engineer with 4+ years of experience (2.5 in formal companie
 ## 👨‍💻 Tech Stack
 
 *   **Frontend:** Vue.js, TailwindCSS
-*   **Backend:** PHP (Laravel, Livewire), Python (FastAPI, Flask), Node.js, Java
+*   **Backend:** PHP (Laravel, Livewire), Python (FastAPI, Django, Flask, Pandas), Node.js, Java
 *   **Databases:** MySQL, MongoDB, Firebase
 *   **Servers & Tools:** Apache, Nginx, AWS, Docker, GitHub Actions
 
