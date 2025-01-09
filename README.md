@@ -7,7 +7,7 @@ I'm Joseph Fabrizzio, your Software Fullstack Engineer. 😄
 
 ### Languages: ENG/SPANISH
 
-🚀 My Tech Stack
+🚀 My Tech Stack Vue PHP/Laravel Python/Django MongoDB Aws
 ----------------
 
 ### 🌐 Web Development
