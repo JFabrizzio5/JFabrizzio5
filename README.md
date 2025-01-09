@@ -1,77 +1,27 @@
-  Joseph Fabrizzio - Fullstack Engineer
+# Joseph Fabrizzio - Fullstack Engineer 🚀
 
-I'm Joseph Fabrizzio, your Software Fullstack Engineer. 😄
-==========================================================
+Passionate software engineer with 4+ years of experience (2.5 in formal companies, 4 freelance). I focus on creating practical, scalable, and innovative solutions, combining tools to solve complex problems.
 
-### I enjoy learning about tech and developing innovative ideas
+## 👨‍💻 Tech Stack
 
-### Languages: ENG/SPANISH
+*   **Frontend:** Vue.js, TailwindCSS
+*   **Backend:** PHP (Laravel, Livewire), Python (FastAPI, Flask), Node.js, Java
+*   **Databases:** MySQL, MongoDB, Firebase
+*   **Servers & Tools:** Apache, Nginx, AWS, Docker, GitHub Actions
 
-🚀 My Tech Stack Vue PHP/Laravel Python/Django MongoDB Aws
-----------------
+## 📚 About Me
 
-### 🌐 Web Development
+*   Project leader with experience managing teams and delivering results.
+*   Passionate about teaching programming concepts and mentoring others.
+*   Focused on API development, database optimization, and scalable architectures.
 
-#### Frontend:
+## 🌱 Currently Learning
 
-*   **Languages:** HTML, CSS, JavaScript (Learning TypeScript) 🎨
-*   **Frameworks/Libraries:** React (In Progress) ⚛️, Bootstrap 🌍
+*   Advanced React & Angular
+*   Scalability with Redis and microservices
 
-#### Backend:
+## 🌐 Connect with Me
 
-*   **Languages:** PHP (Laravel, Livewire), Python (Flask, Django), Java (JSP), Node.js (Express)
-*   **API Development:** Experienced 🚀
-*   **Database Optimization:** Yes 🔍
-
-#### Databases:
-
-*   **Relational:** MySQL, SQLite, MariaDB 🗃️
-*   **NoSQL:** MongoDB, Firebase 🏪
-
-### 🖥️ Desktop Application Development
-
-*   **Languages:** Python (Flet), Java (with MySQLite)
-
-### 📱 Mobile Application Development
-
-*   **Languages:** Java, Kotlin
-*   **Databases:** SQLite, Firebase
-
-### ☁️ Servers
-
-*   **Web Servers:** Apache, Nginx, Aws
-*   **Hosting Platforms:** cPanel, Hostinger, Godaddy, Aws
-
-### 🛠️ Tools & Utilities
-
-*   **IDEs:** Visual Studio Code, NetBeans
-*   **Version Control:** Git
-*   **Remote Support:** AnyDesk, TeamViewer
-
-### 📚 Currently Learning
-
-*   Angular, Advanced React with Express
-
-🤔 About Me
------------
-
-I am passionate about developing ideas and implementing technology solutions for enterprises. I also enjoy working on personal projects that push my skills to the next level.
-
-🌐 Connect with Me
-------------------
-
-Email: [JosephFabrizzioCorreo@gmail.com](mailto:JosephFabrizzioCorreo@gmail.com)
-
-Website: [www.jos5dev.website](https://www.jos5dev.website/)
-
-GitHub Stats
-------------
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JFabrizzio5&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jfabrizzio5&theme=radical&border_radius=6)](https://git.io/streak-stats)
-
-🎯 Fun Fact
------------
-
-I specialize in creating web applications, mobile solutions, and robotics projects. I also love teaching programming concepts to others!
+*   **Email:** [JosephFabrizzioCorreo@gmail.com](mailto:JosephFabrizzioCorreo@gmail.com)
+*   **Website:** [www.jos5dev.website](https://www.jos5dev.website)
+*   **GitHub:** [JFabrizzio5](https://github.com/JFabrizzio5)
