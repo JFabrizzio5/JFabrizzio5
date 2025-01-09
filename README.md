@@ -39,8 +39,8 @@ I'm Joseph Fabrizzio, your Software Fullstack Engineer. 😄
 
 ### ☁️ Servers
 
-*   **Web Servers:** Apache, Nginx
-*   **Hosting Platforms:** cPanel, Hostinger, Godaddy
+*   **Web Servers:** Apache, Nginx, Aws
+*   **Hosting Platforms:** cPanel, Hostinger, Godaddy, Aws
 
 ### 🛠️ Tools & Utilities
 
@@ -69,7 +69,7 @@ GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JFabrizzio5&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JFabrizzio5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jfabrizzio5&theme=radical&border_radius=6)](https://git.io/streak-stats)
 
 🎯 Fun Fact
 -----------
