@@ -6,7 +6,7 @@ Passionate software engineer with 4+ years of experience (2.5 in formal companie
 
 *   **Frontend:** Vue.js, TailwindCSS
 *   **Backend:** PHP (Laravel, Livewire), Python (FastAPI, Django, Flask, Pandas), Node.js, Java
-*   **Databases:** MySQL, MongoDB, Firebase
+*   **Databases:** MySQL, MongoDB, Firebase, Redis
 *   **Servers & Tools:** Apache, Nginx, AWS, Docker, GitHub Actions
 
 ## 📚 About Me
@@ -18,7 +18,7 @@ Passionate software engineer with 4+ years of experience (2.5 in formal companie
 ## 🌱 Currently Learning
 
 *   Advanced React & Angular
-*   Scalability with Redis and microservices
+*   Advanced Scalability with Redis and microservices
 
 ## 🌐 Connect with Me
 
