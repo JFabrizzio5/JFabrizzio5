@@ -39,9 +39,8 @@ Passionate software engineer with 4+ years of experience (2.5 in formal companie
   
 ## 🌐 Connect with Me
 
-*   **Email:** [JosephFabrizzioCorreo@gmail.com](mailto:JosephFabrizzioCorreo@gmail.com)
-*   **Website:** [www.jos5dev.com](https://www.jos5dev.website)
-*   **GitHub:** [JFabrizzio5](https://github.com/JFabrizzio5)
+*   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:JosephFabrizzioCorreo@gmail.com)
+*   [![Website](https://img.shields.io/badge/Website-0A0A0A?style=flat&logo=google-chrome&logoColor=white)](https://www.jos5dev.website)
+*   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JFabrizzio5)
 *   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-fabrizzio-hernandez-gonzalez-045b91270/)
-
 
