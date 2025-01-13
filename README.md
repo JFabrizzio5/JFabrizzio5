@@ -26,7 +26,7 @@ Passionate software engineer with 4+ years of experience (2.5 in formal companie
 *   Focused on API development, database optimization, and scalable architectures.
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/main/3.gif" alt="GIF 1" style="width:100%; max-width:800px; margin-bottom: 20px;"/>
+  <img src="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/main/3.gif" alt="GIF 1" style="width:100%; max-width:50px; margin-bottom: 20px;"/>
 </p>
 
 ## 🌱 Currently Learning
@@ -34,7 +34,7 @@ Passionate software engineer with 4+ years of experience (2.5 in formal companie
 *   Advanced React & Angular
 *   Advanced Scalability with Redis and microservices
   <p align="center">
-  <img src="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/main/4.gif" alt="GIF 2" style="width:100%; max-width:800px;"/>
+  <img src="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/main/4.gif" alt="GIF 2" style="width:50%; max-width:50px;"/>
   </p>
   
 ## 🌐 Connect with Me
@@ -42,5 +42,6 @@ Passionate software engineer with 4+ years of experience (2.5 in formal companie
 *   **Email:** [JosephFabrizzioCorreo@gmail.com](mailto:JosephFabrizzioCorreo@gmail.com)
 *   **Website:** [www.jos5dev.com](https://www.jos5dev.website)
 *   **GitHub:** [JFabrizzio5](https://github.com/JFabrizzio5)
-*   **LinkedIn:** [Joseph Fabrizzio Hernández](https://www.linkedin.com/in/joseph-fabrizzio-hernandez-g
+*   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-fabrizzio-hernandez-gonzalez-045b91270/)
+
 
