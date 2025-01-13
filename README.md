@@ -33,7 +33,6 @@ Passionate software engineer with 4+ years of experience (2.5 in formal companie
 
 *   Advanced React & Angular
 *   Advanced Scalability with Redis and microservices
-  br>
   <p align="center">
   <img src="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/main/4.gif" alt="GIF 2" style="width:100%; max-width:800px;"/>
   </p>
