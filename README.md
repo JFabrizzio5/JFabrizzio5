@@ -23,12 +23,18 @@ Passionate software engineer with 4+ years of experience (2.5 in formal companie
 *   Project leader with experience managing teams and delivering results.
 *   Passionate about teaching programming concepts and mentoring others.
 *   Focused on API development, database optimization, and scalable architectures.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/main/3.gif" alt="GIF 1" style="width:100%; max-width:800px; margin-bottom: 20px;"/>
+
+</p>
 
 ## 🌱 Currently Learning
 
 *   Advanced React & Angular
 *   Advanced Scalability with Redis and microservices
-
+*   <p align="center">
+  <img src="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/main/4.gif" alt="GIF 2" style="width:100%; max-width:800px;"/>
+  </p>
 ## 🌐 Connect with Me
 
 *   **Email:** [JosephFabrizzioCorreo@gmail.com](mailto:JosephFabrizzioCorreo@gmail.com)
