@@ -1,4 +1,4 @@
-<p align="center"> # Joseph Fabrizzio - Fullstack Engineer 🚀 </p>
+<h1 align="center"> Joseph Fabrizzio - Fullstack Engineer 🚀 </h1>
 
 ![Software Engineer Banner](https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/main/Purple%20Pink%20Gradient%20Modern%20Metaverse%20Presentation.jpg)
 
