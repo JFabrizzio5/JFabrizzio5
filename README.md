@@ -14,6 +14,7 @@ Passionate software engineer with 4+ years of experience (2.5 in formal companie
 *   **Backend:** PHP (Laravel, Livewire), Python (FastAPI, Django, Flask, Pandas), Node.js, Java
 *   **Databases:** MySQL, MongoDB, Firebase, Redis
 *   **Servers & Tools:** Apache, Nginx, AWS, Docker, GitHub Actions
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/main/2.gif" alt="GIF animado" style="width:100%; max-width:800px;"/>
 </p>
@@ -23,9 +24,9 @@ Passionate software engineer with 4+ years of experience (2.5 in formal companie
 *   Project leader with experience managing teams and delivering results.
 *   Passionate about teaching programming concepts and mentoring others.
 *   Focused on API development, database optimization, and scalable architectures.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/main/3.gif" alt="GIF 1" style="width:100%; max-width:800px; margin-bottom: 20px;"/>
-
 </p>
 
 ## 🌱 Currently Learning
