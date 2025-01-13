@@ -1,6 +1,7 @@
 <h1 align="center"> Joseph Fabrizzio - Fullstack Engineer 🚀 </h1>
 
-![Software Engineer Banner](https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/main/Purple%20Pink%20Gradient%20Modern%20Metaverse%20Presentation.jpg)
+![banner](https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/main/1.jpg)
+
 
 
 Passionate software engineer with 4+ years of experience (2.5 in formal companies, 4 freelance/startups). I focus on creating practical, scalable, and innovative solutions, combining tools to solve complex problems.
