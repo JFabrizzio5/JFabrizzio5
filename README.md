@@ -42,3 +42,5 @@ Passionate software engineer with 4+ years of experience (2.5 in formal companie
 *   **Email:** [JosephFabrizzioCorreo@gmail.com](mailto:JosephFabrizzioCorreo@gmail.com)
 *   **Website:** [www.jos5dev.com](https://www.jos5dev.website)
 *   **GitHub:** [JFabrizzio5](https://github.com/JFabrizzio5)
+*   **LinkedIn:** [Joseph Fabrizzio Hernández](https://www.linkedin.com/in/joseph-fabrizzio-hernandez-g
+
