@@ -26,7 +26,7 @@ Passionate software engineer with 4+ years of experience (2.5 in formal companie
 *   Focused on API development, database optimization, and scalable architectures.
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/main/3.gif" alt="GIF 1" style="width:100%; max-width:50px; margin-bottom: 20px;"/>
+  <img src="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/main/3.gif" alt="GIF 1" style="width:50%; max-width:50px; margin-bottom: 20px;"/>
 </p>
 
 ## 🌱 Currently Learning
@@ -34,7 +34,7 @@ Passionate software engineer with 4+ years of experience (2.5 in formal companie
 *   Advanced React & Angular
 *   Advanced Scalability with Redis and microservices
   <p align="center">
-  <img src="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/main/4.gif" alt="GIF 2" style="width:50%; max-width:50px;"/>
+  <img src="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/main/4.gif" alt="GIF 2" style="width:75%; max-width:50px;"/>
   </p>
   
 ## 🌐 Connect with Me
