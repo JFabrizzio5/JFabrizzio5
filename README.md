@@ -1,5 +1,5 @@
 <h1 align="center"> Joseph Fabrizzio - Fullstack Engineer 🚀 </h1>
-
+[![committers.top badge](https://user-badge.committers.top/REGION/USERNAME.svg)](https://user-badge.committers.top/MX/jfabrizzio5)
 ![banner](https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/main/1.jpg)
 
 
