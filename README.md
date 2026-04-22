@@ -19,7 +19,7 @@
 
 ## `> whoami`
 
-**Programando desde los 10 años. 7 años de experiencia profesional.** Graduado de Ingeniería en Informática (IPN UPIICSA) **por experiencia profesional probada a los 19 años** vía CENEVAL Ley 286.
+**Programando desde los 10 años. 7 años de experiencia profesional.** Estuve en **IPN UPIICSA** (Ing. en Informática), pero **me salté toda la carrera y me gradué a los 19 años por experiencia profesional probada** vía CENEVAL Ley 286.
 
 La arquitectura no es mi trabajo, es cómo pienso. Hoy divido mi tiempo entre **construir**, **rescatar** y **emprender**:
 
@@ -124,7 +124,7 @@ Empresa SaaS & consultoría. Framework propio (`cometax new`) que genera microse
 |---|---|
 | Programando | **desde los 10 años** |
 | Experiencia profesional | **7 años** |
-| Graduación IPN | **a los 19 años** por experiencia probada (Ley 286) |
+| Graduación IPN UPIICSA | **salté toda la carrera · me gradué a los 19 años** (Ley 286) |
 | Downloads verificados · Chrome Web Store | **+2,000** |
 | Uptime en migraciones de pago | **100%** |
 | Aseguradora rescatada sin código fuente | **VB.NET 2 → AWS** |
