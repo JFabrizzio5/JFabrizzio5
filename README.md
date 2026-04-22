@@ -18,7 +18,9 @@
 
 ---
 
-## `> whoami`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/develop/section_whoami.svg" alt="whoami" width="100%">
+</p>
 
 **Programando desde los 10 años. 7 años de experiencia profesional.** Estuve en **IPN UPIICSA** (Ing. en Informática), pero **me salté toda la carrera y me gradué a los 19 años por experiencia profesional probada** vía CENEVAL Ley 286.
 
@@ -29,7 +31,9 @@ La arquitectura no es mi trabajo, es cómo pienso. Hoy divido mi tiempo entre **
 - 🏛️ **Lead Software Architect** @ JMB Accountants — monolito Laravel → multi-tenant + microservicios. Redis Streams, WebSockets y pipelines que procesan millones de facturas XML para el SAT.
 - 🛟 **Sr Architect / Consultor** @ PuntoZip — migré un legacy **VB.NET 2 → AWS sin código fuente original** para una aseguradora de vida. Cero disrupción. Merck bajo ISO compliance. 100% uptime.
 
-## `> why i build differently`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/develop/section_why.svg" alt="why i build differently" width="100%">
+</p>
 
 ```text
 No soy un developer más. Soy un arquitecto con mentalidad de fundador.
@@ -40,7 +44,9 @@ No soy un developer más. Soy un arquitecto con mentalidad de fundador.
 - **Diseño** con Screaming Architecture, multi-tenant real y Docker desde cero. Lo resiliente se siente.
 - **Mentorizo** equipos: 100% efectividad capacitando ingenieros en Laravel-Inertia, FastAPI, AWS y procesos de reclutamiento.
 
-## `> arsenal`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/develop/section_arsenal.svg" alt="arsenal" width="100%">
+</p>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
@@ -71,7 +77,9 @@ No soy un developer más. Soy un arquitecto con mentalidad de fundador.
 | **IoT / Hardware** | ESP32 · NFC · QR · MQTT · WebSockets |
 | **Disciplina** | Screaming Architecture · Multi-tenant · Pub/Sub · ISO compliance · Disaster Recovery |
 
-## `> projects to know me`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/develop/section_projects.svg" alt="projects to know me" width="100%">
+</p>
 
 <table>
 <tr>
@@ -119,7 +127,9 @@ Empresa SaaS & consultoría. Framework propio (`cometax new`) que genera microse
 </tr>
 </table>
 
-## `> track record`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/develop/section_track.svg" alt="track record" width="100%">
+</p>
 
 | Señal | Realidad |
 |---|---|
@@ -131,13 +141,17 @@ Empresa SaaS & consultoría. Framework propio (`cometax new`) que genera microse
 | Aseguradora rescatada sin código fuente | **VB.NET 2 → AWS** |
 | Cumplimiento para cliente internacional | **Merck · ISO** |
 
-## `> competencias extra`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/develop/section_extra.svg" alt="competencias extra" width="100%">
+</p>
 
 🏆 **DonkPink Robotics Team** — reconocimientos en competencias estatales y nacionales.  
 🏆 **EST 43 Robotics** — 3er y 4to lugar nacional en Minisumo (2018-2020).  
 🎯 Liderazgo técnico · Mentoring · Negociación de presupuestos millonarios · Documentación ISO para clientes internacionales.
 
-## `> contacto`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/develop/section_contacto.svg" alt="contacto" width="100%">
+</p>
 
 <p align="center">
   <a href="mailto:JosephFabrizzioCorreo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
