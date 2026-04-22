@@ -7,6 +7,7 @@
   <a href="https://rankit.pro"><img src="https://img.shields.io/badge/Rankit.pro-c4a8ff?style=for-the-badge&logo=gamepad&logoColor=0f1115"></a>
   <a href="https://www.linkedin.com/in/joseph-fabrizzio-hernandez-gonzalez-045b91270/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <img src="https://img.shields.io/badge/MX-CDMX-ff6f91?style=for-the-badge">
+  <a href="https://raw.githubusercontent.com/JFabrizzio5/JFabrizzio5/refs/heads/develop/Joseph_Fabrizzio_CV.pdf"><img src="https://img.shields.io/badge/CV-Download_PDF-00e5ff?style=for-the-badge&logo=readthedocs&logoColor=0f1115"></a>
 </p>
 
 <p align="center">
