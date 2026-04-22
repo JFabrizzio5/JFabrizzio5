@@ -1,5 +1,4 @@
 ---
-title: "Joseph Fabrizzio Hernandez Gonzalez"
 geometry: margin=0.7in
 fontsize: 10.5pt
 colorlinks: true
@@ -8,7 +7,7 @@ urlcolor: NavyBlue
 ---
 
 \begin{center}
-\Huge \textbf{Joseph Fabrizzio Hernandez Gonzalez} \\
+{\Huge \textbf{Joseph Fabrizzio Hernandez Gonzalez}} \\
 \normalsize
 Lead Software Architect · Legacy Rescue · Multi-tenant SaaS · AWS \\
 Mexico City, Mexico \quad · \quad \href{mailto:Josephfabrizziocorreo@gmail.com}{Josephfabrizziocorreo@gmail.com} \\
