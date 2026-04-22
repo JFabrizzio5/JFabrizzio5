@@ -81,7 +81,7 @@
     <g transform="translate(0, 46)">
       <text class="sub"><tspan class="prompt">&gt;</tspan> <tspan class="subAccent">Desde los 10 años</tspan> aprendiendo a programar y crear cosas.</text>
     </g>
-    <text y="86" class="sub">Lead Software Architect · legacy-rescue SaaS · Mexico City.<tspan class="caret" fill="#ff375f" dx="6">▍</tspan></text>
+    <text y="86" class="sub">CTO / CEO · Co-Founder @ CometaX · Mexico City.<tspan class="caret" fill="#ff375f" dx="6">▍</tspan></text>
   </g>
 
   <g transform="translate(100, 470)">
@@ -103,8 +103,8 @@
     </g>
     <g transform="translate(960, 0)">
       <circle cx="-2" cy="6" r="2" fill="#64d2ff"/>
-      <text class="meta-k">Since</text>
-      <text y="24" class="meta-v">2016 · edad 10</text>
+      <text class="meta-k">Trabajando desde</text>
+      <text y="24" class="meta-v">2019</text>
     </g>
   </g>
 
