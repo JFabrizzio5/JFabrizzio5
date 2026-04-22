@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="Joseph Fabrizzio · Lead Software Architect · Co-Founder CometaX">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#07060f"/>
+      <stop offset="55%" stop-color="#140e2e"/>
+      <stop offset="100%" stop-color="#05040e"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="85%" cy="15%" r="45%">
+      <stop offset="0%"  stop-color="#8453ff" stop-opacity="0.55"/>
+      <stop offset="70%" stop-color="#8453ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="10%" cy="90%" r="40%">
+      <stop offset="0%"  stop-color="#5a1fe6" stop-opacity="0.45"/>
+      <stop offset="70%" stop-color="#5a1fe6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="planet" cx="32%" cy="32%" r="68%">
+      <stop offset="0%"  stop-color="#d6c5ff"/>
+      <stop offset="45%" stop-color="#8453ff"/>
+      <stop offset="85%" stop-color="#2e0d77"/>
+      <stop offset="100%" stop-color="#0b0418"/>
+    </radialGradient>
+    <linearGradient id="text-gloss" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#c4a8ff"/>
+      <stop offset="50%"  stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#c4a8ff"/>
+      <animate attributeName="x1" values="-1;1" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 58px "Inter","SF Pro Display","Helvetica Neue",system-ui,sans-serif; letter-spacing: -1.5px; }
+      .sub   { font: 600 20px "Inter","JetBrains Mono",ui-monospace,monospace; letter-spacing: 0.4px; fill: #a69bc9; }
+      .tag   { font: 600 13px "JetBrains Mono",ui-monospace,monospace; letter-spacing: 2.4px; text-transform: uppercase; fill: #c4a8ff; }
+      .chip  { font: 600 12px "Inter",system-ui,sans-serif; letter-spacing: 0.6px; fill: #ece7f8; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#glow1)"/>
+  <rect width="1200" height="320" fill="url(#glow2)"/>
+
+  <!-- Starfield -->
+  <g fill="#ffffff" opacity="0.6">
+    <circle cx="95"   cy="48"  r="1"/>
+    <circle cx="220"  cy="82"  r="0.8"/>
+    <circle cx="360"  cy="36"  r="1.2"/>
+    <circle cx="520"  cy="110" r="0.8"/>
+    <circle cx="780"  cy="62"  r="1"/>
+    <circle cx="880"  cy="30"  r="0.9"/>
+    <circle cx="1050" cy="100" r="1.2"/>
+    <circle cx="140"  cy="240" r="1"/>
+    <circle cx="305"  cy="270" r="0.8"/>
+    <circle cx="470"  cy="290" r="1"/>
+    <circle cx="620"  cy="260" r="0.9"/>
+    <circle cx="900"  cy="225" r="1.1"/>
+    <circle cx="1090" cy="260" r="0.8"/>
+  </g>
+  <g fill="#c4a8ff" opacity="0.45">
+    <circle cx="180"  cy="190" r="1.4"/>
+    <circle cx="680"  cy="175" r="1.2"/>
+    <circle cx="1005" cy="185" r="1.3"/>
+  </g>
+
+  <!-- Orbit on the right -->
+  <g transform="translate(1005, 160)">
+    <circle r="130" fill="none" stroke="#c4a8ff" stroke-opacity="0.18" stroke-width="1" stroke-dasharray="4 6">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="42s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="100" fill="none" stroke="#c4a8ff" stroke-opacity="0.28" stroke-width="1" stroke-dasharray="3 5">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="28s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="66" fill="url(#planet)"/>
+    <circle r="66" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+    <!-- Moon orbiting -->
+    <g>
+      <circle cx="0" cy="-108" r="5" fill="#ffffff">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+
+  <!-- Left text block -->
+  <g transform="translate(68, 100)">
+    <text class="tag">&gt; system_ready</text>
+    <text y="62" class="title" fill="url(#text-gloss)">Joseph Fabrizzio</text>
+    <text y="104" class="sub">Lead Software Architect · Legacy Rescuer</text>
+
+    <!-- Role chips -->
+    <g transform="translate(0, 140)">
+      <g>
+        <rect width="172" height="30" rx="15" fill="#1f1638" stroke="#3b2f60"/>
+        <text x="86" y="20" class="chip" text-anchor="middle">🚀  Co-Founder · CometaX</text>
+      </g>
+      <g transform="translate(184, 0)">
+        <rect width="148" height="30" rx="15" fill="#1f1638" stroke="#3b2f60"/>
+        <text x="74" y="20" class="chip" text-anchor="middle">🎮  Founder · Rankit.pro</text>
+      </g>
+      <g transform="translate(344, 0)">
+        <rect width="154" height="30" rx="15" fill="#1f1638" stroke="#3b2f60"/>
+        <text x="77" y="20" class="chip" text-anchor="middle">🏛️  Architect · JMB</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Bottom tagline -->
+  <text x="68" y="292" class="sub" style="font-size:14px; fill:#6e638f;">
+    <tspan fill="#c4a8ff">7 años trabajando</tspan>  ·  aprendiendo desde los 10  ·  graduado por experiencia profesional (CENEVAL Ley 286) a los 19
+  </text>
+</svg>
